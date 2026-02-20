@@ -2,11 +2,11 @@
 
 ## Overview
 
-This repository contains lab codes for **BIOE60008/70036 Image Processing (2024-2025)**. The labs cover various topics in image processing applied to medical imaging.
+This repository contains lab codes for **BIOE60008/70036 Image Processing (2025-2026)**. The labs cover various topics in image processing applied to medical imaging.
 
 ## Courses and Lab Sessions
 
-### BIOE60008/70036 Image Processing (2024-2025)
+### BIOE60008/70036 Image Processing (2025-2026)
 
 #### 5_Introduction
 - **DL_Intro_NoSolution.ipynb**: Introduction to deep learning concepts and exercises.

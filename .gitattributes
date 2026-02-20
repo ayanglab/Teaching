@@ -1,1 +1,1 @@
-BIOE60008_70036_Image_Processing_2024-2025/Segmentation/*.npy filter=lfs diff=lfs merge=lfs -text
+BIOE60008_70036_Image_Processing_2025-2026/Segmentation/*.npy filter=lfs diff=lfs merge=lfs -text
